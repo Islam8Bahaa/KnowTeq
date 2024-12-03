@@ -157,11 +157,11 @@
             // autoplayTimeout: 3e3,
             // smartSpeed: 1500,
             // nav: !0,
-            rtl:true,
+            // rtl:true,
             // navText: ["<i class='ti-arrow-right'></i>" , "<i class='ti-arrow-left'></i>"],
             // center: !1,
             // dots: !1,
-            margin: 30,
+            // margin: 30,
             responsive: {
                 0: {
                     items: 1,
