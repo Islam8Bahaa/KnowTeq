@@ -24,20 +24,20 @@ const translations = {
         /////////Section three//////
         ////Our Vision/////
         vision_header:"Our Vision",
-        vision_paragraph_one : "Egy Solutions offers fast, effective, and affordable facility management across residential, commercial, and industrial sectors in Egypt, prioritizing safety, quality, and efficiency",
+        vision_paragraph_one : "To lead various sectors, setting high standards in quality and service",
         ////Our Mission/////
         mission_header: "Our Mission",
-        mission_paragraph_two : "Our mission is to use the latest techniques, effective tools and modern technology to provide high quality services quickly and easily",
+        mission_paragraph_two : "Supporting national economic growth through infrastructure development in Egypt",
         ////Our Goal/////
         goal_header:"Our Goal",
         goal_paragraph_three : "Our dedication to exceptional, accessible, and professional service sets us apart and ensures our market leadership. Join us on our path to success.",
         /////////Section four//////
-        Our_Clients : "Our Clients",
-        Our_Services : "Our Services",
-        App_Download : "App Download",
-        Places : "Places",
+        Mega_Projects : "Mega Projects",
+        Residential_Projects : "Residential Projects",
+        Countries_of_Operation : "Countries of Operation",
+        Subsidiary_Companies : "Subsidiary Companies",
         /////////Section five//////
-        Our_Services : "Our Services",
+        Residential_Projects : "Our Services",
         /////box one /////
         Sterilization : "Sterilization and Insect Control",
         Sterilization_paragraph : "Our specialized team offers professional, customized solutions to ensure a clean, safe work environment. We provide fast, efficient services with a quick response to emergencies, ensuring business continuity",
@@ -261,12 +261,12 @@ const translations = {
         goal_header : "هدفنا",
         goal_paragraph_three : "إن التزامنا بتقديم خدمة متميزة وسهلة الوصول واحترافية يميزنا ويضمن لنا الريادة في السوق. انضم إلينا في مسيرتنا نحو النجاح",
         /////////Section four//////
-        Our_Clients : "عملائنا",
-        Our_Services : "خدماتنا",
-        App_Download : "تنزيلات التطبيق",
-        Places : "نطاق الخدمة",
+        Mega_Projects : "عملائنا",
+        Residential_Projects : "خدماتنا",
+        Countries_of_Operation : "تنزيلات التطبيق",
+        Subsidiary_Companies : "نطاق الخدمة",
         /////////Section five//////
-        Our_Services : "الخدمات",
+        Residential_Projects : "الخدمات",
         /////box one /////
         Sterilization : "تعقيم ومكافحة الحشرات",
         Sterilization_paragraph : "يقدم فريقنا المتخصص حلولاً مهنية ومخصصة لضمان بيئة عمل نظيفة وآمنة. نحن نوفر خدمات سريعة وفعالة مع استجابة سريعة للطوارئ، مما يضمن استمرارية الأعمال.",
