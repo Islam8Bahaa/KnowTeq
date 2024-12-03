@@ -151,16 +151,16 @@
                 }
             }
         }), o(".service-carousel1").owlCarousel({
-            loop: !0,
-            responsiveClass: !0,
-            autoplay: !0,
-            autoplayTimeout: 3e3,
-            smartSpeed: 1500,
-            nav: !0,
+            // loop: !0,
+            // responsiveClass: !0,
+            // autoplay: !0,
+            // autoplayTimeout: 3e3,
+            // smartSpeed: 1500,
+            // nav: !0,
             rtl:true,
-            navText: ["<i class='ti-arrow-right'></i>" , "<i class='ti-arrow-left'></i>"],
-            center: !1,
-            dots: !1,
+            // navText: ["<i class='ti-arrow-right'></i>" , "<i class='ti-arrow-left'></i>"],
+            // center: !1,
+            // dots: !1,
             margin: 30,
             responsive: {
                 0: {
@@ -174,7 +174,7 @@
                     items: 3
                 },
                 1200: {
-                    items: 4
+                    items: 5
                 }
             }
         }), o(".service-carousel2").owlCarousel({

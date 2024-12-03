@@ -37,7 +37,7 @@ const translations = {
         Countries_of_Operation : "Countries of Operation",
         Subsidiary_Companies : "Subsidiary Companies",
         /////////Section five//////
-        Residential_Projects : "Our Services",
+        Our_Companies : "Our Companies",
         /////box one /////
         Sterilization : "Sterilization and Insect Control",
         Sterilization_paragraph : "Our specialized team offers professional, customized solutions to ensure a clean, safe work environment. We provide fast, efficient services with a quick response to emergencies, ensuring business continuity",
@@ -266,7 +266,7 @@ const translations = {
         Countries_of_Operation : "تنزيلات التطبيق",
         Subsidiary_Companies : "نطاق الخدمة",
         /////////Section five//////
-        Residential_Projects : "الخدمات",
+        Our_Companies : "الخدمات",
         /////box one /////
         Sterilization : "تعقيم ومكافحة الحشرات",
         Sterilization_paragraph : "يقدم فريقنا المتخصص حلولاً مهنية ومخصصة لضمان بيئة عمل نظيفة وآمنة. نحن نوفر خدمات سريعة وفعالة مع استجابة سريعة للطوارئ، مما يضمن استمرارية الأعمال.",
