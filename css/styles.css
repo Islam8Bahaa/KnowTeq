@@ -123,7 +123,7 @@ a:focus {
 
 .text-primary,
 .text-primary-hover:hover {
-    color: #646161 !important
+    color: #fff !important
 }
 
 .text-secondary,
@@ -609,7 +609,7 @@ span.sm-dot {
 }
 
 .header-style3 .navbar-nav li.active>a {
-    color: #646161
+    color: #00dfee
 }
 
 .navbar-brand img{
@@ -633,13 +633,13 @@ span.sm-dot {
 
 @media screen and (min-width: 992px) {
     .header-style3 .navbar-nav li.active>a {
-        color: #646161
+        color: #00dfee
     }
 
     .header-style3 .navbar-nav>li>a:hover,
     .header-style3 .navbar-nav>li>a:active,
     .header-style3 .navbar-nav>li>a:focus {
-        color: #646161
+        color: #00dfee
     }
 
     .header-style3 .navbar ul ul li.active>a {
@@ -669,12 +669,16 @@ span.sm-dot {
     }
 
     .header-style3.scrollHeader .navbar-nav>li.active>a {
-        color: #646161
+        color: #00dfee
     }
 
     .header-style3.scrollHeader .navbar-nav li.current>a {
         color: #646161
     }
+
+    /* .header-style3.scrollHeader .navbar-nav>li>a{
+        color: #646161
+    } */
 
     .header-style3.scrollHeader .navbar-nav li.current>a:hover {
         color: #646161
@@ -3877,6 +3881,10 @@ span.sm-dot {
     text-align: start
 }
 
+.about-style04 .about-header{
+    color: #00dfee;
+}
+
 .about-style04 .about-img img {
     -webkit-transition: all 0.5s ease 0s;
     -o-transition: all 0.5s ease 0s;
@@ -7063,4 +7071,8 @@ html[dir="rtl"] .service-card{
     html[dir="rtl"] .language-switcher{
         padding: 14px 20px;
     }
+}
+
+.service-header{
+    color: #00dfee !important;
 }
