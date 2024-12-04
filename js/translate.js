@@ -32,6 +32,18 @@ const translations = {
         ////Our Goal/////
         goal_header:"Our Goal",
         goal_paragraph_three : "To be among the top ten industry leaders in Egypt by consistently contributing to national economic growth, empowering communities, and setting benchmarks for excellence in every project we undertake.",
+        
+        // vision_header:"Our Vision",
+        project_paragraph_one : "Healthcare Projects",
+        ////Our Mission/////
+        // mission_header: "Our Mission",
+        project_paragraph_two : "Construction Projects",
+        ////Our Goal/////
+        // goal_header:"Our Goal",
+        project_paragraph_three : "Automotive Projects ",
+        project_paragraph_four : "Consulting Projects",
+        project_paragraph_five : "Industrial Projects",
+        
         /////////Section four//////
         Mega_Projects : "Mega Projects",
         Residential_Projects : "Residential Projects",
