@@ -268,16 +268,16 @@
                     items: 2
                 },
                 575: {
-                    items: 3
+                    items: 4
                 },
                 767: {
-                    items: 4
+                    items: 6
                 },
                 992: {
-                    items: 4
+                    items: 7
                 },
                 1200: {
-                    items: 5
+                    items: 9
                 }
             }
         }), o(".workspace-carousel").owlCarousel({

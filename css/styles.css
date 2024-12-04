@@ -2039,11 +2039,21 @@ span.sm-dot {
 .card-style5 {
     background-color: rgba(255, 255, 255, 0.1);
     border-color: rgba(255, 255, 255, 0.2);
-    transition: .3s
+    transition: .3s;
+    color: white;
+}
+
+.card-style5 a{
+    color: white;
 }
 
 .card-style5:hover {
-    background-color: #1d2a34
+    background-color: whitesmoke;
+    color: black;
+}
+.card-style5:hover.card-style5 a {
+    /* background-color: whitesmoke; */
+    color: black;
 }
 
 .card-style6 span {
@@ -3881,6 +3891,10 @@ span.sm-dot {
     text-align: start
 }
 
+.about-style04 .exp-box span{
+    font-size: 25px;
+}
+
 .about-style04 .about-header{
     color: #00dfee;
 }
@@ -5322,6 +5336,10 @@ h2.resp-tab-active span.resp-arrow {
     flex-shrink: 1;
     align-self: auto;
     display: flex
+}
+
+.clients-style04 .client{
+    /* width: 40%; */
 }
 
 .clients-style04 img {

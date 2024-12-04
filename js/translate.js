@@ -15,7 +15,8 @@ const translations = {
         learn_more_company : "Learn More",
         /////////Section two//////
         about_about_us:  "About Us",
-        about_us_header : "At Knowteq Group, we are committed to delivering excellence through innovation, reliability, and a forward-thinking approach. As a leading Egyptian joint stock holding company, we specialize in construction, consulting, automotive, and healthcare, driving impactful projects that align with national development goals and empower local industries.",
+        about_us_header : "Shaping the Future of Innovation and Development",
+        about_us_paragraph: "At Knowteq Group, we are committed to delivering excellence through innovation, reliability, and a forward-thinking approach. As a leading Egyptian joint stock holding company, we specialize in construction, consulting, automotive, and healthcare, driving impactful projects that align with national development goals and empower local industries.",
         about_tittle_one : "Integrity: We uphold the highest standards of honesty and transparency in all our endeavors",
         about_tittle_two : "Innovation: We constantly evolve to provide cutting-edge solutions that address modern challenges.",
         about_tittle_three : "Sustainability: We are dedicated to building a future that balances progress with environmental responsibility.",
