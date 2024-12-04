@@ -15,22 +15,22 @@ const translations = {
         learn_more_company : "Learn More",
         /////////Section two//////
         about_about_us:  "About Us",
-        about_us_header : "Knowteq Construction is a leader in delivering comprehensive contracting and engineering services, specializing in large-scale infrastructure and building projects. Backed by a team of seasoned engineers and technicians, we provide turnkey solutions across diverse sectors, ensuring quality, safety, and sustainability in every project",
-        about_tittle_one : "Proven expertise in delivering complex projects on time and within budget",
-        about_tittle_two : "Commitment to quality, safety, and sustainability in construction.",
-        about_tittle_three : "Extensive portfolio in diverse sectors, including healthcare, infrastructure, and residential",
-        about_tittle_four : "Partnerships with leading consultants and contractors for superior results",
-        about_button_header : "Learn More",
+        about_us_header : "At Knowteq Group, we are committed to delivering excellence through innovation, reliability, and a forward-thinking approach. As a leading Egyptian joint stock holding company, we specialize in construction, consulting, automotive, and healthcare, driving impactful projects that align with national development goals and empower local industries.",
+        about_tittle_one : "Integrity: We uphold the highest standards of honesty and transparency in all our endeavors",
+        about_tittle_two : "Innovation: We constantly evolve to provide cutting-edge solutions that address modern challenges.",
+        about_tittle_three : "Sustainability: We are dedicated to building a future that balances progress with environmental responsibility.",
+        about_tittle_four : "Collaboration: We believe in the power of partnerships to create value and deliver lasting success.",
+        about_button_header : "Explore Our Companies",
         /////////Section three//////
         ////Our Vision/////
         vision_header:"Our Vision",
-        vision_paragraph_one : "To lead various sectors, setting high standards in quality and service",
+        vision_paragraph_one : "To become a pioneering force in Egypt’s development, driving innovation and excellence across industries while shaping a sustainable future for generations to come",
         ////Our Mission/////
         mission_header: "Our Mission",
-        mission_paragraph_two : "Supporting national economic growth through infrastructure development in Egypt",
+        mission_paragraph_two : "To deliver impactful solutions in construction, consulting, automotive, and healthcare by leveraging advanced technologies, fostering partnerships, and adhering to the highest standards of integrity and quality.",
         ////Our Goal/////
         goal_header:"Our Goal",
-        goal_paragraph_three : "Our dedication to exceptional, accessible, and professional service sets us apart and ensures our market leadership. Join us on our path to success.",
+        goal_paragraph_three : "To be among the top ten industry leaders in Egypt by consistently contributing to national economic growth, empowering communities, and setting benchmarks for excellence in every project we undertake.",
         /////////Section four//////
         Mega_Projects : "Mega Projects",
         Residential_Projects : "Residential Projects",
@@ -39,33 +39,26 @@ const translations = {
         /////////Section five//////
         Our_Companies : "Our Companies",
         /////box one /////
-        Sterilization : "Sterilization and Insect Control",
-        Sterilization_paragraph : "Our specialized team offers professional, customized solutions to ensure a clean, safe work environment. We provide fast, efficient services with a quick response to emergencies, ensuring business continuity",
+        // Knowteq_Construction : "Sterilization and Insect Control",
+        Knowteq_Construction_paragraph : "Knowteq Construction: Large-scale infrastructure and commercial projects.",
         Read_more : "Read More",
         /////box two /////
-        Landscape_Services : "Landscape Services",
-        Landscape_Services_paragraph : "Egy Solutions offers customized and innovative landscape designs, transforming outdoor spaces into attractive environments. With professional execution and strict adherence to timelines and quality, we ensure design accuracy. We also provide regular maintenance to sustain the beauty and freshness of these spaces long-term.",
+        // Landscape_Services : "Landscape Services",
+        Knowteq_Consulting_paragraph : "Knowteq Consulting: Strategic consulting, project management, and market analysis.",
         Read_more : "Read More",
         /////box three /////
-        Car_Wash_Services : "Car Wash Services",
-        Car_Wash_Services_paragraph : "We offer a convenient on-site car wash service, saving employees time and ensuring vehicles are always clean. Our specialized team is highly trained, delivering professional services with top-quality, internationally approved products for lasting protection and shine",
+        // Car_Wash_Services : "Car Wash Services",
+        Knowteq_Healthcare_paragraph : "Knowteq Healthcare: Building medical infrastructure and healthcare facilities.",
         Read_more : "Read More",
         /////box four /////
-        IT_Services : "IT Services",
-        IT_Services_paragraph : "We provide on-site IT services directly at your company's location, ensuring minimal downtime and quick resolution of technical issues without disrupting your workflow.",
+        // IT_Services : "IT Services",
+        Knowteq_Automotive_paragraph : "Knowteq Automotive: High-quality automotive solutions and spare parts.",
         Read_more : "Read More",
         /////box five /////
-        Cleaning_Services : "Cleaning Services",
-        Cleaning_Services_paragraph : "We offer customized cleaning solutions to ensure your facility remains clean, healthy, and safe for employees. Services include deep cleaning of all areas, rooms, offices, bathrooms, kitchens, carpets, upholstery, curtains, furniture stain removal, and water damage restoration.",
+        // Cleaning_Services : "Cleaning Services",
+        Knowteq_Industries_paragraph : "Knowteq Industries: Providing industrial equipment and infrastructure solutions.",
         Read_more : "Read More",
-        /////box six /////
-        Cleaning_Destinations : "Cleaning Destinations",
-        Cleaning_Destinations_paragraph : "With extensive experience, we remove even the toughest stains safely and quickly using eco-friendly products. Egy Solutions offers professional window cleaning programs tailored to your schedule and budget, utilizing advanced technologies like spider systems, cranes, and platforms. Services are available daily, weekly, monthly, quarterly, or annually.",
-        Read_more : "Read More",
-        /////box seven /////
-        Maintenance : "Maintenance & Finishing Works",
-        Maintenance_paragraph : "We provide complete or partial interior finishing and maintenance for homes, villas, shops, and companies, with optional 3D designs tailored to client preferences. We offer various finishing types (Lux, Super Lux, High Ultra) using durable materials across all aspects—electricity, plumbing, insulation, carpentry, ceilings, and more.",
-        Read_more : "Read More",
+        
         /////////Section six//////
         OUR_FEATURES : "OUR FEATURES",
         FEATURES : "Apply Through EASY SRV APP",
