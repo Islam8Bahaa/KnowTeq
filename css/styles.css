@@ -118,7 +118,7 @@ a:focus {
 
 .left-overlay-secondary[data-overlay-dark]:before {
     background: rgba(29, 42, 52, 0.76);
-    background: linear-gradient(-90deg, transparent, #1d2a34 65%)
+    background: linear-gradient(-90deg, transparent, #1d2a34 100%)
 }
 
 .text-primary,
@@ -992,7 +992,7 @@ span.sm-dot {
 }
 
 .slider-fade4 .item h1 {
-    font-size: 60px;
+    font-size: 40px;
     line-height: 95px;
     letter-spacing: 0px;
     font-weight: 900;
@@ -1079,7 +1079,7 @@ span.sm-dot {
 
 @media screen and (max-width: 1399px) {
     .slider-fade4 .item h1 {
-        font-size: 60px;
+        font-size: 40px;
         line-height: 90px;
         letter-spacing: 0px;
         font-weight: 900;
@@ -1089,7 +1089,7 @@ span.sm-dot {
 
 @media screen and (max-width: 1199px) {
     .slider-fade4 .item h1 {
-        font-size: 60px;
+        font-size: 40px;
         line-height: 90px;
         letter-spacing: 0px
     }
@@ -1097,7 +1097,7 @@ span.sm-dot {
 
 @media screen and (max-width: 991px) {
     .slider-fade4 .item h1 {
-        font-size: 70px;
+        font-size: 40px;
         line-height: 65px;
         letter-spacing: -2px
     }
@@ -1203,6 +1203,15 @@ span.sm-dot {
 
 .section-title-03 {
     position: relative
+}
+
+ .clients{
+    margin-top: 35px;
+    text-align: center !important;
+}
+
+.clients button{
+    border-radius: 15px;
 }
 
 .section-title-03 .sub-title {
@@ -1346,12 +1355,19 @@ span.sm-dot {
 }
 
 .page-title-section {
-    padding: 180px 0 100px 0
+    padding: 180px 0 100px 0;
+
+}
+
+.page-title-section {
+    background-size: contain !important;
 }
 
 .page-title-section.style2 {
     padding: 110px 0 100px 0
 }
+
+
 
 .page-title-section h1 {
     font-size: 64px;
@@ -4217,15 +4233,27 @@ span.sm-dot {
     transition: 0.4s
 }
 
+/* .features-style-01{
+
+background-color: #b4b2b2;
+} */
 .features-style-01 .features-box h3 {
     position: absolute;
-    bottom: 30px;
+    bottom: 7rem;
+    color: #495057 !important;
+    font-size: 17px;
     -webkit-transition: all 0.3s ease;
     -khtml-transition: all 0.3s ease;
     -moz-transition: all 0.3s ease;
     -ms-transition: all 0.3s ease;
     -o-transition: all 0.3s ease;
-    transition: all 0.3s ease
+    transition: all 0.3s ease;
+}
+
+
+.features-style-01 .cover-background{
+    background-size: contain !important;
+    box-shadow: 5px 4px 13px 0px rgba(46, 63, 99, 0.15);
 }
 
 .features-style-01 .features-box .features-btn {
@@ -4245,7 +4273,8 @@ span.sm-dot {
 }
 
 .features-style-01 .features-box:hover h3 {
-    bottom: 60px
+    bottom: 80px;
+    color: whitesmoke !important;
 }
 
 .features-style-01 .features-box:hover .features-btn {
@@ -4257,6 +4286,8 @@ span.sm-dot {
 .features-style-01 .features-box .features-inner {
     position: absolute;
     top: 0;
+    left: 0;
+    padding: 15px;
     width: 100%;
     height: 100%;
     display: -webkit-box;

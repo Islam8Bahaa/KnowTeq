@@ -4,15 +4,15 @@ const translations = {
          ////////NavBar////////////
         nav_home: "Home",
         nav_about_us : "About Us",
-        nav_service : "Service",
+        nav_service : "Our Companies",
         nav_contact : "Contact",
         /////////////////Home//////////////////////
         /////////Section one//////
         Welcome_company : "Welcome to Knowteq",
-        about_company1 : "Expert Solutions for Daily Challenges",
-        about_company2 : "Innovative Expertise in Smart Applications",
-        about_company3 : "Specialists in Modern Problem-Solving",
-        learn_more_company : "Learn More",
+        about_company1 : "Shaping the Future of Innovation and Development",
+        about_company2 : "Shaping the Future of Innovation and Development",
+        about_company3 : "Shaping the Future of Innovation and Development",
+        learn_more_company : "Explore Our Companies",
         /////////Section two//////
         about_about_us:  "About Us",
         about_us_header : "Shaping the Future of Innovation and Development",
@@ -198,8 +198,8 @@ const translations = {
         home: "Home", 
         little_about : "",
         //Section two//
-        Cleaning_Services : "HouseKeeping",
-        Cleaning_Services_paragraph : "We provide a comprehensive range of customized cleaning solutions tailored to meet the specific needs of your facility, ensuring it remains a clean, healthy, and safe environment for all employees. Our services encompass deep cleaning of all areas, including offices, conference rooms, restrooms, and common areas. We specialize in the thorough cleaning of kitchens, ensuring that countertops, appliances, and flooring are spotless and hygienic. Our carpet and upholstery cleaning services effectively remove dirt, stains, and allergens, revitalizing the appearance and comfort of your furnishings. We also offer curtain cleaning to eliminate dust and allergens, as well as expert furniture stain removal to preserve the quality and aesthetics of your interiors. Additionally, our water damage restoration services address leaks and flooding, restoring affected areas to their original condition and preventing further damage. Our team is equipped with advanced cleaning tools and eco-friendly products to deliver the highest standard of cleanliness and safety.",
+        Cleaning_Services : "Knowteq Construction",
+        Cleaning_Services_paragraph : "Knowteq Construction is a leader in delivering comprehensive contracting and engineering services, specializing in large-scale infrastructure and building projects. Backed by a team of seasoned engineers and technicians, we provide turnkey solutions across diverse sectors, ensuring quality, safety, and sustainability in every project.",
         Cleaning_Services_button_service : "Learn More",
         /////box Cleaning Destinations/////
         //Section one//
