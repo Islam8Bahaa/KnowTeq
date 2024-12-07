@@ -52,24 +52,24 @@ const translations = {
         /////////Section five//////
         Our_Companies : "Our Companies",
         /////box one /////
-        // Knowteq_Construction : "Sterilization and Insect Control",
-        Knowteq_Construction_paragraph : "Knowteq Construction: Large-scale infrastructure and commercial projects.",
+        // Knowteq_Construction : "Knowteq_Construction and Insect Control",
+        Knowteq_Construction_title : "Knowteq Construction: Large-scale infrastructure and commercial projects.",
         Read_more : "Read More",
         /////box two /////
         // Landscape_Services : "Landscape Services",
-        Knowteq_Consulting_paragraph : "Knowteq Consulting: Strategic consulting, project management, and market analysis.",
+        Knowteq_Consulting_title : "Knowteq Consulting: Strategic consulting, project management, and market analysis.",
         Read_more : "Read More",
         /////box three /////
         // Car_Wash_Services : "Car Wash Services",
-        Knowteq_Healthcare_paragraph : "Knowteq Healthcare: Building medical infrastructure and healthcare facilities.",
+        Knowteq_Healthcare_title : "Knowteq Healthcare: Building medical infrastructure and healthcare facilities.",
         Read_more : "Read More",
         /////box four /////
         // IT_Services : "IT Services",
-        Knowteq_Automotive_paragraph : "Knowteq Automotive: High-quality automotive solutions and spare parts.",
+        Knowteq_Automotive_title : "Knowteq Automotive: High-quality automotive solutions and spare parts.",
         Read_more : "Read More",
         /////box five /////
         // Cleaning_Services : "Cleaning Services",
-        Knowteq_Industries_paragraph : "Knowteq Industries: Providing industrial equipment and infrastructure solutions.",
+        Knowteq_Industries_title : "Knowteq Industries: Providing industrial equipment and infrastructure solutions.",
         Read_more : "Read More",
         
         /////////Section six//////
@@ -120,7 +120,7 @@ const translations = {
         tittle_two : "",
         tittle_three : "",
         ///////////////service////////////////////////
-        /////box Sterilization /////
+        /////box Knowteq_Construction /////
         //Section one//
         service : "",
         home: "Home", 
@@ -133,14 +133,10 @@ const translations = {
 
         //Section two//
         little_service : "",
-        Sterilization : "Sterilization and Insect Control",
-        Sterilization_paragraph : "Our specialized team delivers top-tier sterilization and insect control services, meticulously tailored to address the unique requirements of your workspace. We employ cutting-edge technology and advanced techniques to ensure the complete eradication of harmful pathogens, bacteria, and pests, fostering a clean, safe, and hygienic environment for both employees and clients. Our services encompass a wide range of solutions, including:",
-        Sterilization_tittle_one : "Routine Sterilization: Regular disinfection of surfaces, equipment, and air purification to maintain ongoing cleanliness and prevent the spread of illnesses.",
-        Sterilization_tittle_two : "Targeted Insect Control: Customized pest control strategies that address specific infestations, such as rodents, insects, and other pests, using eco-friendly and effective treatments.",
-        Sterilization_tittle_three : "Emergency Response: Rapid deployment of our team to handle urgent situations, such as sudden pest outbreaks or contamination events, ensuring swift resolution with minimal disruption to your operations.",
-        Sterilization_tittle_four : "Comprehensive Assessments: Detailed inspections of your facility to identify potential risks and develop a tailored plan that meets your safety standards and regulatory requirements.",
-        Sterilization_paragraph:"We focus on delivering fast, efficient, and reliable services, ensuring your business remains operational while safeguarding the health and well-being of everyone on-site. Whether you require a one-time deep cleaning, ongoing maintenance, or emergency interventions, our expert team is equipped to provide the highest level of service, ensuring a sanitized, pest-free environment that enhances your business's reputation and functionality.",
-        button_service : "",
+        Knowteq_Construction : " Knowteq Construction",
+        Knowteq_Construction_paragraph : "Knowteq Construction is a leader in delivering comprehensive contracting and engineering services, specializing in large-scale infrastructure and building projects. Backed by a team of seasoned engineers and technicians, we provide turnkey solutions across diverse sectors, ensuring quality, safety, and sustainability in every project.",
+        
+        button_service : "Learn More",
         /////box Landscape Services /////
         //Section one//
         service : "",
@@ -148,18 +144,10 @@ const translations = {
         little_about : "",
         //Section two//
         
-        Landscape_Services : "Landscape Services",
-        Landscape_Services_paragraph : "Egy Solutions is dedicated to transforming outdoor spaces into stunning, functional environments through customized and innovative landscape design. Our comprehensive landscape services cater to both residential and commercial clients, offering a seamless blend of creativity, expertise, and attention to detail.",
-        Landscape_Services_tittle_one : "Design and Planning: Our team of experienced landscape architects and designers begins each project with a thorough consultation to understand the client's vision, preferences, and requirements. We create detailed, personalized landscape plans that incorporate various elements such as plant selection, hardscaping (paths, patios, walls), water features, lighting, and more.",
-        Landscape_Services_tittle_two : "Hardscaping: We specialize in the construction of durable and aesthetically pleasing hardscape features. This includes patios, walkways, retaining walls, garden beds, and outdoor living spaces, all built with high-quality materials that ensure longevity and stability.",
-        Landscape_Services_tittle_three : "Softscaping: Our horticultural experts carefully select and install a wide variety of plants, trees, and shrubs that are suited to the local climate and soil conditions. We design planting schemes that enhance the visual appeal of your property while promoting biodiversity and sustainability.",
-        Landscape_Services_paragraph2 : "Egy Solutions is your partner in creating and maintaining exquisite outdoor spaces that reflect your style and enhance the value of your property. Whether you need a complete landscape transformation or ongoing care for an existing space, our professional and reliable services deliver lasting beauty and functionality.",
-        Landscape_Services_tittle_one1 : "Irrigation and Water Management: We design and install efficient irrigation systems that ensure optimal water distribution to all areas of your landscape. Our systems are designed to conserve water while maintaining the health and vibrancy of your plants.",
-        Landscape_Services_tittle_two2 : "Design and Planning: Our team of experienced landscape architects and designers begins each project with a thorough consultation to understand the client's vision, preferences, and requirements. We create detailed, personalized landscape plans that incorporate various elements such as plant selection, hardscaping (paths, patios, walls), water features, lighting, and more.",
-        Landscape_Services_tittle_three3 : "Hardscaping: We specialize in the construction of durable and aesthetically pleasing hardscape features. This includes patios, walkways, retaining walls, garden beds, and outdoor living spaces, all built with high-quality materials that ensure longevity and stability.",
-        Landscape_Services_tittle_four4 : "Softscaping: Our horticultural experts carefully select and install a wide variety of plants, trees, and shrubs that are suited to the local climate and soil conditions. We design planting schemes that enhance the visual appeal of your property while promoting biodiversity and sustainability.",
-        Landscape_Services_tittle_five5 : "Irrigation and Water Management: We design and install efficient irrigation systems that ensure optimal water distribution to all areas of your landscape. Our systems are designed to conserve water while maintaining the health and vibrancy of your plants.",
-        Landscape_Services_button_service : "Learn More",
+        Knowteq_Consulting : "Knowteq Consulting",
+        Knowteq_Consulting_paragraph : "Egy Solutions is dedicated to transforming outdoor spaces into stunning, functional environments through customized and innovative landscape design. Our comprehensive landscape services cater to both residential and commercial clients, offering a seamless blend of creativity, expertise, and attention to detail.",
+        
+        Knowteq_Consulting_button_service : "Learn More",
         /////box Car Wash Services /////
         //Section one//
         service : "",
@@ -167,15 +155,9 @@ const translations = {
         little_about : "",
         //Section two//
         little_service : "",
-        Mobile_Car_Wash_Services : "Mobile Car Wash Services",
-        Mobile_Car_Wash_Services_paragraph : "Egy Solutions brings the car wash directly to your location with our convenient mobile service, designed to save time and effort while keeping your vehicles in pristine condition. Our service is ideal for corporate environments, allowing employees to have their cars cleaned without leaving the workplace, thus minimizing downtime and maximizing productivity.",
-        Mobile_Car_Wash_Services_tittle_one : "Comprehensive Cleaning Options: We offer a range of car wash options, from basic exterior cleaning to full-service detailing, including interior vacuuming, window cleaning, and tire dressing. Our packages can be customized to meet specific needs, ensuring every vehicle receives the care it deserves.",
-        Mobile_Car_Wash_Services_tittle_two : "Specialized Team: Our team consists of highly trained professionals who are experts in automotive care. With years of experience and a commitment to excellence, they deliver top-notch services that meet the highest industry standards. Each member of our team is trained in the latest techniques and uses state-of-the-art equipment to ensure the best possible results.",
-        Mobile_Car_Wash_Services_tittle_three : "High-Quality Products: We use only the best, internationally approved cleaning and maintenance products. These products are designed to protect your vehicle’s paint, upholstery, and other surfaces from scratches and damage, providing a long-lasting shine and protection against the elements.",
-        Mobile_Car_Wash_Services_tittle_four : "Eco-Friendly Practices: Our mobile car wash service is designed with environmental responsibility in mind. We use eco-friendly products and water-saving techniques to minimize our ecological footprint while still delivering a superior clean",
-        Mobile_Car_Wash_Services_tittle_five : "Flexible Scheduling: We understand the demands of a busy work environment, which is why we offer flexible scheduling options to fit your company’s needs. Whether it’s a one-time service or a regular maintenance plan, we work around your schedule to provide the utmost convenience.",
-        Mobile_Car_Wash_Services_tittle_six : "Regular Maintenance Plans: For businesses that require ongoing car care, we offer subscription-based services that ensure your fleet is always in top condition. Our maintenance plans include regular cleaning and detailing sessions, helping to extend the lifespan of your vehicles and maintain their resale value.",
-        Mobile_Car_Wash_Services_button_service : "Learn More",
+        Knowteq_Healthcare : "Knowteq Healthcare",
+        Knowteq_Healthcare_paragraph : "Knowteq Healthcare provides state-of-the-art solutions to advance Egypt’s healthcare sector. From infrastructure upgrades to modern equipment supply, we aim to enhance patient care, operational efficiency, and compliance with global standards",
+        Knowteq_Healthcare_button_service : "Learn More",
         /////box IT Services /////
         //Section one//
         service : "",
@@ -183,24 +165,18 @@ const translations = {
         little_about : "",
         //Section two//
         little_service : "",
-        IT_Services : "IT Services",
-        IT_Services_paragraph : "Egy Solutions offers comprehensive IT services designed to keep your company’s technology infrastructure running smoothly. Our on-site IT support and specialized team ensure that technical issues are resolved quickly and efficiently, minimizing downtime and allowing your business to operate without interruption.",
-        IT_Services_tittle_one : "On-Site IT Support: Our IT specialists come directly to your business location to provide immediate assistance with any technical issues. Whether it’s troubleshooting, system upgrades, or hardware repairs, we ensure quick resolution with minimal disruption to your daily operations.",
-        IT_Services_tittle_two : "Specialized IT Team: Our team is composed of highly skilled professionals with extensive experience in the IT field. They are equipped to handle a wide range of technical challenges, from network setup and management to cybersecurity and data protection. Each team member is certified in their area of expertise, ensuring that your IT needs are met with the highest level of professionalism.",
-        IT_Services_tittle_one1 : "Advanced Tools and Software: We utilize the latest tools and software solutions to enhance and maintain your IT infrastructure. Our services include installing and managing cutting-edge antivirus software, implementing secure backup solutions, and monitoring system performance to prevent potential issues before they arise. We also provide software updates and patches to keep your systems secure and running efficiently.",
-        IT_Services_tittle_two2 : "Proactive Monitoring and Maintenance: Beyond troubleshooting, we offer proactive monitoring of your IT systems to detect and resolve issues before they impact your business. Our maintenance services include regular system checks, network health assessments, and performance optimization to ensure your technology is always up to date and functioning at its best.",
-        IT_Services_tittle_three3 : "Tailored IT Solutions: We understand that every business has unique IT needs. That’s why we offer customized IT solutions tailored to your specific requirements. Whether you need support for a small office network or a complex enterprise-level infrastructure, our team works closely with you to develop a strategy that aligns with your business goals.",
-        IT_Services_tittle_four4 : "Security and Compliance: In today’s digital age, security is paramount. We implement robust security measures to protect your data and ensure compliance with industry regulations. Our services include firewall setup, data encryption, and secure access controls to safeguard your sensitive information.",
-        IT_Services_button_service : "Learn More",
+        Knowteq_Industries : "Knowteq Industries",
+        Knowteq_Industries_paragraph : "Knowteq Industries specializes in innovative industrial projects that enhance operational efficiency and sustainability. With expertise in renewable energy, manufacturing, and industrial automation, we help businesses adopt modern technologies and optimize production processes.",
+        Knowteq_Industries_button_service : "Learn More",
         /////box Cleaning Services /////
         //Section one//
         service : "",
         home: "Home", 
         little_about : "",
         //Section two//
-        Cleaning_Services : "Knowteq Construction",
-        Cleaning_Services_paragraph : "Knowteq Construction is a leader in delivering comprehensive contracting and engineering services, specializing in large-scale infrastructure and building projects. Backed by a team of seasoned engineers and technicians, we provide turnkey solutions across diverse sectors, ensuring quality, safety, and sustainability in every project.",
-        Cleaning_Services_button_service : "Learn More",
+        Knowteq_Automotive : " Knowteq Automotive",
+        Knowteq_Automotive_paragraph : "Knowteq Automotive specializes in electric and sustainable vehicle solutions, representing leading manufacturers like NAVECO and Xunhu. We provide advanced automotive technologies tailored to Egypt’s growing transportation needs, supporting the shift toward a green future.",
+        Knowteq_Automotive_button_service : "Learn More",
         /////box Cleaning Destinations/////
         //Section one//
         Cleaning_Destinations : "Eco-Friendly Window Cleaning Services",
@@ -274,8 +250,8 @@ const translations = {
         /////////Section five//////
         Our_Companies : "الخدمات",
         /////box one /////
-        Sterilization : "تعقيم ومكافحة الحشرات",
-        Sterilization_paragraph : "يقدم فريقنا المتخصص حلولاً مهنية ومخصصة لضمان بيئة عمل نظيفة وآمنة. نحن نوفر خدمات سريعة وفعالة مع استجابة سريعة للطوارئ، مما يضمن استمرارية الأعمال.",
+        Knowteq_Construction : "تعقيم ومكافحة الحشرات",
+        Knowteq_Construction_paragraph : "يقدم فريقنا المتخصص حلولاً مهنية ومخصصة لضمان بيئة عمل نظيفة وآمنة. نحن نوفر خدمات سريعة وفعالة مع استجابة سريعة للطوارئ، مما يضمن استمرارية الأعمال.",
         Read_more : "المزيد",
         /////box two /////
         Landscape_Services : "خدمات تنسيق الحدائق",
@@ -340,21 +316,21 @@ const translations = {
         job5 : "مصمم",
 
         ///////////////service////////////////////////
-        /////box Sterilization /////
+        /////box Knowteq_Construction /////
         //Section one//
         // service : "خدماتنا",
         // home:  "الرئيسية",
         little_about : "الخدمات",
         //Section two//
         little_service : "الخدمات",
-        Sterilization : "تعقيم ومكافحة الحشرات",
-        Sterilization_paragraph : "فريقنا المتخصص يقدم خدمات تعقيم ومكافحة الحشرات عالية الجودة، مصممة بعناية لتلبية الاحتياجات الفريدة لمساحتك العملية. نعتمد على أحدث التقنيات والأساليب المتقدمة لضمان القضاء التام على مسببات الأمراض والبكتيريا والآفات الضارة، مما يسهم في خلق بيئة نظيفة وآمنة وصحية لكل من الموظفين والعملاء. تشمل خدماتنا مجموعة واسعة من الحلول، بما في ذلك:",
-        Sterilization_tittle_one : "التعقيم الروتيني: التعقيم المنتظم للأسطح والمعدات وتنقية الهواء للحفاظ على النظافة المستمرة ومنع انتشار الأمراض.",
-        Sterilization_tittle_two : "مكافحة الحشرات المستهدفة: استراتيجيات مخصصة لمكافحة الآفات تعالج حالات الإصابة المحددة مثل القوارض والحشرات والآفات الأخرى باستخدام علاجات فعّالة وصديقة للبيئة.",
-        Sterilization_tittle_three : "الاستجابة للطوارئ: نشر سريع لفريقنا للتعامل مع الحالات العاجلة، مثل انتشار الآفات المفاجئ أو حالات التلوث، لضمان حل سريع مع أقل قدر من التعطيل لعملياتك.",
-        Sterilization_tittle_four : "التقييمات الشاملة: فحوصات دقيقة لمنشأتك لتحديد المخاطر المحتملة وتطوير خطة مخصصة تلبي معايير السلامة الخاصة بك والمتطلبات التنظيمية.",
-        Sterilization_paragraph2 :"نركز على تقديم خدمات سريعة وفعالة وموثوقة، لضمان استمرار عمل منشأتك مع الحفاظ على صحة وسلامة جميع المتواجدين فيها. سواء كنت بحاجة إلى تنظيف عميق لمرة واحدة، أو صيانة دورية، أو تدخلات طارئة، فإن فريقنا المتخصص مجهز لتقديم أعلى مستوى من الخدمة، مما يضمن بيئة معقمة وخالية من الآفات، تعزز من سمعة ووظائف منشأتك.",
-        Sterilization_button_service : "المزيد",
+        Knowteq_Construction : "تعقيم ومكافحة الحشرات",
+        Knowteq_Construction_paragraph : "فريقنا المتخصص يقدم خدمات تعقيم ومكافحة الحشرات عالية الجودة، مصممة بعناية لتلبية الاحتياجات الفريدة لمساحتك العملية. نعتمد على أحدث التقنيات والأساليب المتقدمة لضمان القضاء التام على مسببات الأمراض والبكتيريا والآفات الضارة، مما يسهم في خلق بيئة نظيفة وآمنة وصحية لكل من الموظفين والعملاء. تشمل خدماتنا مجموعة واسعة من الحلول، بما في ذلك:",
+        Knowteq_Construction_tittle_one : "التعقيم الروتيني: التعقيم المنتظم للأسطح والمعدات وتنقية الهواء للحفاظ على النظافة المستمرة ومنع انتشار الأمراض.",
+        Knowteq_Construction_tittle_two : "مكافحة الحشرات المستهدفة: استراتيجيات مخصصة لمكافحة الآفات تعالج حالات الإصابة المحددة مثل القوارض والحشرات والآفات الأخرى باستخدام علاجات فعّالة وصديقة للبيئة.",
+        Knowteq_Construction_tittle_three : "الاستجابة للطوارئ: نشر سريع لفريقنا للتعامل مع الحالات العاجلة، مثل انتشار الآفات المفاجئ أو حالات التلوث، لضمان حل سريع مع أقل قدر من التعطيل لعملياتك.",
+        Knowteq_Construction_tittle_four : "التقييمات الشاملة: فحوصات دقيقة لمنشأتك لتحديد المخاطر المحتملة وتطوير خطة مخصصة تلبي معايير السلامة الخاصة بك والمتطلبات التنظيمية.",
+        Knowteq_Construction_paragraph2 :"نركز على تقديم خدمات سريعة وفعالة وموثوقة، لضمان استمرار عمل منشأتك مع الحفاظ على صحة وسلامة جميع المتواجدين فيها. سواء كنت بحاجة إلى تنظيف عميق لمرة واحدة، أو صيانة دورية، أو تدخلات طارئة، فإن فريقنا المتخصص مجهز لتقديم أعلى مستوى من الخدمة، مما يضمن بيئة معقمة وخالية من الآفات، تعزز من سمعة ووظائف منشأتك.",
+        Knowteq_Construction_button_service : "المزيد",
         /////box Landscape Services /////
         //Section one//
         service : "خدماتنا",
