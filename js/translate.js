@@ -145,7 +145,7 @@ const translations = {
         //Section two//
         
         Knowteq_Consulting : "Knowteq Consulting",
-        Knowteq_Consulting_paragraph : "Egy Solutions is dedicated to transforming outdoor spaces into stunning, functional environments through customized and innovative landscape design. Our comprehensive landscape services cater to both residential and commercial clients, offering a seamless blend of creativity, expertise, and attention to detail.",
+        Knowteq_Consulting_paragraph : "Knowteq Consult specializes in healthcare quality consulting, established in partnership with the General Authority for Healthcare Accreditation and Regulation (GAHAR). Our team of seasoned experts combines deep industry knowledge and practical expertise to elevate healthcare service standards in Egypt. We are dedicated to helping facilities achieve accreditation and maintain compliance with both local and international quality standards, aligning with Egypt vision 2030",
         
         Knowteq_Consulting_button_service : "Learn More",
         /////box Car Wash Services /////
@@ -179,22 +179,12 @@ const translations = {
         Knowteq_Automotive_button_service : "Learn More",
         /////box Cleaning Destinations/////
         //Section one//
-        Cleaning_Destinations : "Eco-Friendly Window Cleaning Services",
-        Cleaning_Destinations_paragraph : "With our extensive experience, Egy Solutions excels in removing even the toughest stains from various surfaces, ensuring a safe and quick process that prioritizes the integrity of your property. We exclusively use eco-friendly products that are gentle on the environment yet highly effective in delivering outstanding results. Our professional window cleaning services are meticulously designed to meet your specific needs, offering customized programs that align with your schedule and budget. Utilizing advanced technologies such as spider systems, cranes, and elevated platforms, we guarantee thorough cleaning even in the most challenging areas. Our services are flexible and available at your convenience—whether you need daily, weekly, monthly, quarterly, or annual cleaning, we ensure your spaces are consistently maintained to the highest standards.",
-        Cleaning_Destinations_button_service : "Learn More",
-        /////box Cleaning Maintenance/////
-        //Section one//
-        Maintenance : "Maintenance & Finishing Works",
-        Maintenance_paragraph : "We specialize in delivering comprehensive interior finishing and maintenance services for a variety of spaces, including homes, villas, shops, and corporate offices. Our offerings range from complete overhauls to partial upgrades, tailored to meet the specific needs of each client. We begin with an in-depth consultation to understand your vision, followed by the creation of customized 3D design models that reflect your style and preferences, ensuring that you can visualize the final outcome before work begins.</",
-        Maintenance_tittle_one : "Electrical Systems: Complete installation and rewiring of electrical systems, ensuring safety, efficiency, and adherence to the latest standards.",
-        Maintenance_tittle_two : "Plumbing: Expert plumbing services covering everything from basic pipe installations to complex systems, ensuring reliable and leak-free performance.",
-        Maintenance_tittle_three : "Insulation: Advanced insulation solutions that improve energy efficiency and comfort, including thermal and sound insulation tailored to the needs of your space.",
-        Maintenance_paragraph2 : "Our finishing services are categorized into three distinct levels: Lux, Super Lux, and High Ultra, each designed to cater to different tastes and budget requirements. We use only the highest-quality, durable materials to ensure longevity and resilience in every project. Our expertise spans all critical aspects of interior work, including:",
-        Maintenance_tittle_one1 : "Carpentry: Custom carpentry services for all types of woodwork, including cabinetry, doors, windows, and furniture, crafted to the highest standards of craftsmanship.",
-        Maintenance_tittle_two2 : "Ceiling Designs: Innovative ceiling designs ranging from classic to contemporary, including suspended ceilings, decorative plasterwork, and integrated lighting solutions.",
-        Maintenance_tittle_three3 : "Flooring: A wide selection of flooring options, including tiles, hardwood, laminate, and vinyl, installed with precision to ensure a flawless finish.",
-        Maintenance_tittle_four4 : "Painting and Wall Treatments: Professional painting services with a variety of finishes and techniques, including decorative wall treatments and textures that add character to your interiors.",
-        Maintenance_button_service : "Learn More",
+        Our_Services: "Our Services",
+
+
+        Knowteq_Construction_project1: "New Administrative Capital (Infrastructure)",
+        Knowteq_Construction_project2: "Suez Canal Economic Zone Development",
+        Knowteq_Construction_project3: "Cairo Airport Expansion",
         /////contact/////
         //Section one//
         service : "",

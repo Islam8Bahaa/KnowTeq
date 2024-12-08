@@ -6356,9 +6356,10 @@ fieldset:disabled .btn {
     }
 
     .modal-dialog {
-        max-width: var(--bs-modal-width);
+        /* max-width: var(--bs-modal-width); */
         margin-right: auto;
-        margin-left: auto
+        margin-left: auto;
+        width: 65%;
     }
 
     .modal-sm {

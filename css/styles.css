@@ -38,6 +38,7 @@ header.scrollHeader .navbar-default{
     background: #FAFAFA;
 }
 
+
 #preloader {
     position: fixed;
     top: 0;
@@ -4280,7 +4281,8 @@ background-color: #b4b2b2;
 .features-style-01 .features-box:hover .features-btn {
     opacity: 1;
     visibility: visible;
-    margin-bottom: 20px
+    margin-bottom: 20px;
+    border-bottom: 1px solid white;
 }
 
 .features-style-01 .features-box .features-inner {
@@ -4306,7 +4308,7 @@ background-color: #b4b2b2;
     position: absolute;
     width: 100%;
     height: 100%;
-    background-color: #1d2a34;
+    background-color: #1d2a348f;
     top: 0;
     left: 0;
     opacity: 0.2;
@@ -7124,4 +7126,8 @@ html[dir="rtl"] .service-card{
 
 .service-header{
     color: #00dfee !important;
+}
+
+.modal-dialog{
+    width: 65%;
 }
